@@ -25,7 +25,7 @@ Dalle Clone is a full stack MERN application built with TypeScript that utilizes
  Clone the repository
 
 ```
-git clone https://github.com/apurba-striker/dalle-clone-mern-ts.git
+git clone https://github.com/apurba-striker/dall-e-repository.git
 
 ```
 
