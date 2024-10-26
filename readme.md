@@ -17,7 +17,6 @@ Dalle Clone is a full stack MERN application built with TypeScript that utilizes
 
 **deployed link** - https://dalle-clone-mern-ts.vercel.app/
 
-**api endpoints/api collection** - https://www.postman.com/descent-module-architect-13586242/workspace/public-apis/collection/19587055-acfc5489-1711-4ab7-868b-83fce52fb3e0?action=share&creator=19587055
 
 
 ### **Installation**
